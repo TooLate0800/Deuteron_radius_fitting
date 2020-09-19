@@ -1,4 +1,4 @@
-# The Sum-of-Gaussian function fitted with the data
+# The Sum-of-Gaussian function fitted with the available data
 
 
 
