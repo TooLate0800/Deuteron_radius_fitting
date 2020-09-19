@@ -1,4 +1,8 @@
-The Sum-of-Gaussian function fitted with the data
+#The Sum-of-Gaussian function fitted with the data
+
+
+
+
 R_GC[12] = {5.19665, 3.75539, 3.863, 1.56157, 1.49323, 2.83786, 2.46828, 1.4896, 3.83144, 3.91101, 2.70553, 0.4};
 ![Image](https://github.com/TooLate0800/Deuteron_radius_fitting/blob/master/SOG_fitting/SOG_fit/GC_SOG.png)
 
