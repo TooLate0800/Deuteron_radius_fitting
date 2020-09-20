@@ -1,4 +1,4 @@
-# The Sum-of-Gaussian function fitted with the available data
+# The Sum-of-Gaussian parameterization fitted with the available deuteron form factors data
 
 
 
