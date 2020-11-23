@@ -42,7 +42,7 @@ int roofit(){
     f1-> SetParameter(1,0.6626);
     f1-> SetParameter(2,0.4);
     f1-> SetParameter(3,0.80);
-    TGraphErrors graph("DRad_models/data_points_Abbott.txt","%lg %lg %lg");
+    TGraphErrors graph("data_points_Abbott.txt","%lg %lg %lg");
     graph.SetMarkerStyle(kCircle);
     graph.SetFillColor(0);
     graph.Print();
