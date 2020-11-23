@@ -7,10 +7,10 @@ the three rows from left to right are the value of Q^2 (fm^{-2}) , GC, and the u
 
 Roofit.C is used for determining the value of the fixed parameters in the fitter Fixed Rational(1,3). The following is the fitting result:
 Processing roofit.C...
-x[0]=0.7396, y[0]=0.627, ex[0]=0, ey[0]=0.011
-x[1]=1.3225, y[1]=0.474, ex[1]=0, ey[1]=0.008
-x[2]=2.4964, y[2]=0.289, ex[2]=0, ey[2]=0.006
-x[3]=3.0276, y[3]=0.238, ex[3]=0, ey[3]=0.005
+x[0]=0.7396, y[0]=0.627, ex[0]=0, ey[0]=0.011//
+x[1]=1.3225, y[1]=0.474, ex[1]=0, ey[1]=0.008//
+x[2]=2.4964, y[2]=0.289, ex[2]=0, ey[2]=0.006//
+x[3]=3.0276, y[3]=0.238, ex[3]=0, ey[3]=0.005//
 x[4]=4.10468, y[4]=0.16, ex[4]=0, ey[4]=0.005
 x[5]=4.1209, y[5]=0.163, ex[5]=0, ey[5]=0.005
 x[6]=5.5319, y[6]=0.1, ex[6]=0, ey[6]=0.004
